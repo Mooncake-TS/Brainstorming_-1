@@ -1,0 +1,11 @@
+sku_id,sku_name,lead_time_days,safety_stock_days,moq,pack_size
+SKU-01,Brake Pad A (Front),9,14,100,20
+SKU-02,Brake Pad B (Rear),29,20,100,10
+SKU-03,Brake Pad C (SUV),25,17,50,10
+SKU-04,Brake Pad D (Sport),19,17,200,25
+SKU-05,Shim Kit A,19,17,200,50
+SKU-06,Shim Kit B,31,18,100,10
+SKU-07,Backing Plate A,9,14,100,50
+SKU-08,Friction Material A,27,8,200,50
+SKU-09,Caliper Clip A,12,18,100,20
+SKU-10,Sensor Wire A,9,13,100,25
